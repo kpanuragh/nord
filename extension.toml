@@ -1,0 +1,7 @@
+id = "nord"
+name = "Nord"
+version = "0.0.1"
+schema_version = 1
+authors = ["Anuragh K P <kpanuragh@gmail.com>"]
+description = "Nord Color Scheme for Zed"
+repository = "https://github.com/kpanuragh/nord"
